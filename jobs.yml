@@ -1,6 +1,6 @@
 jobs:
-  - name : testjob1
+  - name : testreso2
     type : manifest
     steps :
-      - GET foo1
-      - PUT foo1
+      - GET reso2
+      - PUT reso2
